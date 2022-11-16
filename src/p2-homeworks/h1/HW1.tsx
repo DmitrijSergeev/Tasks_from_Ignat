@@ -5,7 +5,7 @@ const messageData = {
     avatar: 'https://sun9-74.userapi.com/Ph-WiuOtF985il9AvN9JqiCWedmHtSGSSTXrSA/ltEB2Z2-YO4.jpg',
     name: 'John',
     message: 'Hello World',
-    time: 2200,
+    time: '22:00',
 }
 function HW1() {
     return (

@@ -3,7 +3,7 @@ type MainType = {
     avatar: string
     name: string
     message: string
-    time: number
+    time: string
 }
 function Message(props: MainType) {
     return (
